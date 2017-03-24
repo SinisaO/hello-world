@@ -1,2 +1,4 @@
 # hello-world
-This is the description of a project.
+Hello Humans!
+
+Hubot here, I'like Node.js and JavaScript.
